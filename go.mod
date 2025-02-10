@@ -6,7 +6,7 @@ go 1.23.4
 replace github.com/blue-monads/turnix => ../turnix
 
 require (
-	github.com/blue-monads/turnix v0.0.0-20250210194328-20931be4711e
+	github.com/blue-monads/turnix v0.0.0-20250210223808-50427d3eccbd
 	github.com/gin-gonic/gin v1.10.0
 	github.com/k0kubun/pp v3.0.1+incompatible
 )
