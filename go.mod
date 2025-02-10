@@ -2,14 +2,14 @@ module github.com/blue-monads/turnix-extern
 
 go 1.23.4
 
+// todo -> uncomment later
+replace github.com/blue-monads/turnix => ../turnix
+
 require (
-	github.com/blue-monads/turnix v0.0.0-20250210191935-67f2b3a59d32
+	github.com/blue-monads/turnix v0.0.0-20250210194328-20931be4711e
 	github.com/gin-gonic/gin v1.10.0
 	github.com/k0kubun/pp v3.0.1+incompatible
 )
-
-// todo -> uncomment later
-replace github.com/blue-monads/turnix => ../turnix
 
 require (
 	github.com/alecthomas/repr v0.4.0 // indirect

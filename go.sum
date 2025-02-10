@@ -9,8 +9,8 @@ github.com/andybalholm/brotli v1.0.4 h1:V7DdXeJtZscaqfNuAdSRuRFzuiKlHSC/Zh3zl9qY
 github.com/andybalholm/brotli v1.0.4/go.mod h1:fO7iG3H7G2nSZ7m0zPUDn85XEX2GTukHGRSepvi9Eig=
 github.com/aurowora/compress v0.0.0-20230724224640-6512772d482f h1:wUy9rf1KnADb/XAGgRT9R3GRXQbwBeA7nZPYLYX09Pk=
 github.com/aurowora/compress v0.0.0-20230724224640-6512772d482f/go.mod h1:tlXfT/GyE392cX9KJbz0THhf+N3fviVoCGPpbHrIsFU=
-github.com/blue-monads/turnix v0.0.0-20250210191935-67f2b3a59d32 h1:LinI7VMON7W4hrbhiXDxuGCRttK7m4GZLtNq80uDkBI=
-github.com/blue-monads/turnix v0.0.0-20250210191935-67f2b3a59d32/go.mod h1:s2l5RDtUI6AWIAVqJvqrwbDYhZ8aJ+vuY/25yXcs6XM=
+github.com/blue-monads/turnix v0.0.0-20250210194328-20931be4711e h1:Ij0k0zG/FIaVLbAzv89OzIaf9Y1/5Jj8VHyd4f7K9KY=
+github.com/blue-monads/turnix v0.0.0-20250210194328-20931be4711e/go.mod h1:s2l5RDtUI6AWIAVqJvqrwbDYhZ8aJ+vuY/25yXcs6XM=
 github.com/bwmarrin/snowflake v0.3.0 h1:xm67bEhkKh6ij1790JB83OujPR5CzNe8QuQqAgISZN0=
 github.com/bwmarrin/snowflake v0.3.0/go.mod h1:NdZxfVWX+oR6y2K0o6qAYv6gIOP9rjG0/E9WsDpxqwE=
 github.com/bytedance/sonic v1.5.0/go.mod h1:ED5hyg4y6t3/9Ku1R6dU/4KyJ48DZ4jPhfY1O2AihPM=
