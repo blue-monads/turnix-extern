@@ -14,7 +14,7 @@ export default function Home() {
           >
             <Image
               className="dark:invert"
-              src="/globe.svg"
+              src="/z/x/externtest/globe.svg"
               alt="Globe logomark"
               width={20}
               height={20}
