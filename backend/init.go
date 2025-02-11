@@ -1,6 +1,7 @@
 package module
 
 import (
+	"github.com/blue-monads/turnix-extern/frontend"
 	"github.com/blue-monads/turnix/backend/registry"
 	"github.com/blue-monads/turnix/backend/xtypes/xproject"
 	"github.com/gin-gonic/gin"
@@ -20,6 +21,9 @@ func New(opt xproject.BuilderOption) (*xproject.Defination, error) {
 		NewFormSchemaFields: []xproject.PTypeField{},
 		Version:             "1.0.0",
 		Perminssions:        []string{"read", "write", "read/write"},
+		LinkPattern:         "/z/x/externtest",
+		AssetData:           frontend.BuildProd,
+		AssetDataPrefix:     "out",
 		OnAPIMount: func(rg *gin.RouterGroup) {
 			rg.GET("/test", func(c *gin.Context) {
 				c.JSON(200, gin.H{

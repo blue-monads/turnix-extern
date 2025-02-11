@@ -24,6 +24,11 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
+      <head>
+        <script src="/z/lib/floatingPortalButtom.js"></script>
+        </head>
+
+
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
       >
