@@ -1,7 +1,7 @@
 package main
 
 import (
-	_ "github.com/blue-monads/turnix-extern/module"
+	_ "github.com/blue-monads/turnix-extern/backend"
 
 	"github.com/blue-monads/turnix/backend/distro"
 
